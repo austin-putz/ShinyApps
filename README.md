@@ -14,3 +14,10 @@ Is an app I wrote to determine profitability of a swine contract through a major
 
 The link to <a href="https://austin-putz.shinyapps.io/cashflow/" target="_blank" >Cashflow Contract</a>. 
 
+## Falconer and Mackay 1996 (Quantitative Genetics)
+
+Delta q under Selection [link](https://austin-putz.shinyapps.io/deltaqselection/)
+
+q after t generations of selection [link](https://austin-putz.shinyapps.io/ngen/)
+
+Chapter 7: G, A, D [link](https://austin-putz.shinyapps.io/Ch_7/)
